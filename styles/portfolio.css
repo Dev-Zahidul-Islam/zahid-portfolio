@@ -38,6 +38,9 @@
     color: #757575;
 }
 
+.text-centre {
+    text-align: center;
+}
 
 .logo h2{
     font-size: 45px;
